@@ -29,7 +29,7 @@ function App() {
       <AnimatePresence mode="wait">
         <Routes location={location} key={location.pathname}>
           <Route path="/switch/:id" element={<Switch />} />
-          <Route path="/" element={<HomePage />} />
+          <Route path="/dzfooty" element={<HomePage />} />
           <Route path="/about-us" element={<AboutUs />} />
           <Route path="/contact-me" element={<ContactForm />} />
           <Route path="/switchCups/:id" element={<SwitchCups />} />

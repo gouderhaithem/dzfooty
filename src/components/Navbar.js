@@ -8,12 +8,12 @@ export const Navbar = () => {
       <h1>
         <div className="logoPrincipe">
           <img src={logo} alt="" />
-          <Link to="/">DzairFooty</Link>
+          <Link to="/dzfooty">DzairFooty</Link>
         </div>
       </h1>
       <ul>
         <li>
-          <Link to="/">1. Home</Link>
+          <Link to="/dzfooty">1. Home</Link>
         </li>
         <li>
           <Link to="/matchday">2. Match Day</Link>

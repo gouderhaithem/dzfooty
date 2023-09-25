@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dzfooty/static/css/main.2f5e7e48.css",
+    "main.js": "/dzfooty/static/js/main.a345ac5a.js",
+    "static/js/787.179e5ba0.chunk.js": "/dzfooty/static/js/787.179e5ba0.chunk.js",
+    "static/media/logo.png": "/dzfooty/static/media/logo.132b33b87c8d9c619cb8.png",
+    "index.html": "/dzfooty/index.html",
+    "main.2f5e7e48.css.map": "/dzfooty/static/css/main.2f5e7e48.css.map",
+    "main.a345ac5a.js.map": "/dzfooty/static/js/main.a345ac5a.js.map",
+    "787.179e5ba0.chunk.js.map": "/dzfooty/static/js/787.179e5ba0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f5e7e48.css",
+    "static/js/main.a345ac5a.js"
+  ]
+}

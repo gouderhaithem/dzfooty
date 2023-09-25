@@ -25,18 +25,18 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-      <ScrollToTop/>
+      <ScrollToTop />
       <AnimatePresence mode="wait">
         <Routes location={location} key={location.pathname}>
           <Route path="/switch/:id" element={<Switch />} />
           <Route path="/" element={<HomePage />} />
           <Route path="/about-us" element={<AboutUs />} />
-          <Route path="/contact-me" element={<ContactForm/>} />
+          <Route path="/contact-me" element={<ContactForm />} />
           <Route path="/switchCups/:id" element={<SwitchCups />} />
           <Route path="/matchday" element={<MatchDay />} />
         </Routes>
       </AnimatePresence>
-      <Footer/>
+      <Footer />
     </div>
   );
 }
